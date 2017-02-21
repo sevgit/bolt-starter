@@ -109,7 +109,7 @@ $ react-native run-ios
 ```
 Or
 ```sh
-$ react-native run-ios 
+$ react-native run-android 
 ```
 
 ## Others
